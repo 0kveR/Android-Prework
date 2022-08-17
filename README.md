@@ -4,7 +4,7 @@
 This Android app was made for the Intro to Mobile Development course.
 
 ### App Walk-though
-<img src="https://imgur.com/a/LpUGwr9" width=200><br>
+<img src="https://i.imgur.com/NkCu30Y.gif" width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
